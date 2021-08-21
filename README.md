@@ -1,6 +1,6 @@
 # Ecommerce-AI-app
 
-
+An AI-based E-commerce web application that allows users to order items either manually or via a chatbot that can perform actions from adding or removing items from the cart to proceeding to checkout . Developed and Implemented using React.js and for the chatbot using Alan Studio .
 
 # Getting Started with Create React App
 
